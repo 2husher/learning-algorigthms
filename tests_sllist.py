@@ -1,4 +1,4 @@
-from sllists import *
+from sllists2 import *
 
 SingleLinkedList()
 
